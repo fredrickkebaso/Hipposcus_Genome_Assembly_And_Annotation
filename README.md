@@ -1,10 +1,10 @@
-<!--## 🚨 Important Notice ! 🚨-->
+## 🚨 Important Notice ! 🚨
 
-<!--📢 The *Hippobosca camelina* (Camel ked) genome has been **updated** using **Oxford Nanopore long reads** and **Illumina short reads**. The improved genome and chemosensory gene annotations are now available in **GenBank**. --> 
+📢 The *Hippobosca camelina* (Camel ked) genome has been **updated** using **Oxford Nanopore long reads** and **Illumina short reads**. The improved genome and chemosensory gene annotations are now available in **GenBank**.
 
-<!--👉: **Access the updated data and scripts here:** [Improved *Hippobosca camelina* genome.](https://github.com/fredrickkebaso/Hippobosca-camelina-Genome-and-Chemosensory-genes)-->
+👉: **Access the updated data and scripts here:** [Improved *Hippobosca camelina* genome.](https://github.com/fredrickkebaso/Hippobosca-camelina-Genome-and-Chemosensory-genes)
 
-# De-novo-Genome-Assembly-and-chemosensory-gene-annotation-in-_Hippobosca-variegata_-and-_Hippobosca camelina_
+# De-novo-Genome-Assembly-and-chemosensory-gene-annotation-in-_Hippobosca-variegata_-and-_Hippobosca camelina
 
 
 ## Background of the study
